@@ -1,0 +1,1 @@
+c:\Users\Андрей\Desktop\YII2\frontend\views\beauty\register.php
